@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TaskManager</string>
+    <string name="tasks_menu">Tugas</string>
+    <string name="notes_menu">Catatan</string>
+    <string name="no_tasks">Tidak ada tugas</string>
+    <string name="new_task">Tugas Baru</string>
+    <string name="edit_task">Edit Tugas</string>
+    <string name="close">Tutup</string>
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+    <string name="ok">OK</string>
+    <string name="select_date">Pilih tanggal</string>
+    <string name="date">Tanggal</string>
+    <string name="time">Waktu</string>
+    <string name="select_time">Pilih waktu</string>
+    <string name="add_title">Tambah judul</string>
+    <string name="add_description">Tambah deskripsi</string>
+    <string name="check">periksa</string>
+    <string name="delete_task_message">Anda yakin ingin menghapus tugas ini?</string>
+    <string name="delete_task_title">Hapus Tugas</string>
+    <string name="discard_task_message">Anda yakin ingin membuang perubahan tugas ini?</string>
+    <string name="discard_task_title">Buang Tugas</string>
+    <string name="delete_note_message">Anda yakin ingin menghapus catatan ini?</string>
+    <string name="delete_note_title">Hapus Catatan</string>
+    <string name="discard_note_message">Anda yakin ingin membuang perubahan catatan ini?</string>
+    <string name="discard_note_title">Buang Catatan</string>
+    <string name="delete">Hapus</string>
+    <string name="new_note">Catatan Baru</string>
+    <string name="edit_note">Edit Catatan</string>
+    <string name="edit">Edit</string>
+    <string name="note">Catatan</string>
+    <string name="discard">Buang</string>
+    <string name="task">Tugas</string>
+    <string name="search">Cari</string>
+    <string name="filter">Saring</string>
+</resources>
